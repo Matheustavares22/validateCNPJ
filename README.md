@@ -1,2 +1,4 @@
 # validateCNPJ
-solution  in groovy that's validate an cnpj a brazilian company ID
+solution in groovy that's validates an CNPJ.
+What is CNPJ?
+It's a brazilian company ID pattern.
